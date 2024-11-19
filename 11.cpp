@@ -57,6 +57,7 @@ int main()
     person* p2=new person(p1);
     p2->dis();
     cout<<p2->age;
+    cout<<"output done";
 
     
 }
